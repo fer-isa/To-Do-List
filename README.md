@@ -3,6 +3,15 @@
 
 Este projeto é uma aplicação de lista de tarefas desenvolvida em C# como parte do curso de Programador de Sistemas no SENAC, no âmbito do projeto Transforme-se. A aplicação utiliza um banco de dados MySQL e implementa os conceitos de DTO (Data Transfer Object) e DAL (Data Access Layer).
 
+## Imagens do projeto
+
+### Tela Principal
+![image](https://github.com/user-attachments/assets/507ba012-e559-47b5-82e1-0776f6b38210)
+
+### Tela Secundária
+
+![image](https://github.com/user-attachments/assets/ffd5fafe-7836-4160-87a5-7482fbb6a163)
+
 ## Funcionalidades
 
 - Adicionar, editar e remover tarefas
@@ -40,14 +49,7 @@ Este projeto é uma aplicação de lista de tarefas desenvolvida em C# como part
 
 ---
 
-## Imagens do projeto
 
-### Tela Principal
-![image](https://github.com/user-attachments/assets/507ba012-e559-47b5-82e1-0776f6b38210)
-
-### Tela Secundária
-
-![image](https://github.com/user-attachments/assets/ffd5fafe-7836-4160-87a5-7482fbb6a163)
 
 ### Projeto desenvolvido por Fernanda Isabelli Oliveira 2025.
 
