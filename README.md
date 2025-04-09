@@ -5,26 +5,26 @@ Este projeto é uma aplicação de lista de tarefas desenvolvida em C# como part
 
 ## Imagens do projeto
 
-### Tela Principal
+### Tela Principal:
 ![image](https://github.com/user-attachments/assets/507ba012-e559-47b5-82e1-0776f6b38210)
 
-### Tela Secundária
+### Tela Secundária:
 
 ![image](https://github.com/user-attachments/assets/ffd5fafe-7836-4160-87a5-7482fbb6a163)
 
-## Funcionalidades
+## Funcionalidades:
 
 - Adicionar, editar e remover tarefas
 - Listar todas as tarefas
 - Marcar grau de importância com escala de 1 a 10
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas:
 
 - C#
 - MySQL
 - DTO (Data Transfer Object)
 - DAL (Data Access Layer)
 
-## Comandos SQL Utilizados
+## Comandos SQL Utilizados:
 
 - `SELECT`: Para selecionar dados do banco de dados
 - `ALTER`: Para modificar a estrutura das tabelas
@@ -32,7 +32,7 @@ Este projeto é uma aplicação de lista de tarefas desenvolvida em C# como part
 - `WHERE`: Para filtrar os dados nas consultas
 - `DELETE`: Para remover registros do banco de dados
 
-## Como Executar o Projeto
+## Como Executar o Projeto:
 
 1. Clone este repositório:
     ```bash
