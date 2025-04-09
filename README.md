@@ -41,4 +41,6 @@ Este projeto é uma aplicação de lista de tarefas desenvolvida em C# como part
 ---
 
 Projeto desenvolvido por Fernanda Isabelli Oliveira.
+![image](https://github.com/user-attachments/assets/507ba012-e559-47b5-82e1-0776f6b38210)
+
 ```
