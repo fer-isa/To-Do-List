@@ -40,7 +40,6 @@ Este projeto é uma aplicação de lista de tarefas desenvolvida em C# como part
 
 ---
 
-Projeto desenvolvido por Fernanda Isabelli Oliveira 2025.
 ## Imagens do projeto
 
 ### Tela Principal
@@ -50,6 +49,6 @@ Projeto desenvolvido por Fernanda Isabelli Oliveira 2025.
 
 ![image](https://github.com/user-attachments/assets/ffd5fafe-7836-4160-87a5-7482fbb6a163)
 
-
+### Projeto desenvolvido por Fernanda Isabelli Oliveira 2025.
 
 ```
